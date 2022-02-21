@@ -1,8 +1,8 @@
 # JOGO DA FORCA
-<h2>Resumo</h2>
+<h2>📋Resumo</h2>
 <p>Um jogo da forca feito inteiramente em Python, onde o foco desse projeto não é a parte visual, mas sim a parte lógica</p>
 
-<h2>Como jogar?</h2>
+<h2>🎮Como jogar?</h2>
 <p>Acessando forca_game/forca.py o jogo será executado</p>
 <p>Dentro do jogo o usuário tem duas opções:</p>
 <ul>
