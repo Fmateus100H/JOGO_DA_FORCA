@@ -18,4 +18,5 @@
 <p>O usuário digitará a nova palavra e ela será adicionada ao arquivo do caminho forca_game/run/word/palavras.txt, podendo ser usada no jogo</p>
 
 <h2>⚠Observações</h2>
+<p>Projeto criado enquanto eu cursava a disciplina de lógica de programação</p>
 <p>Fiz esse projeto sem cópias externas, então relevem se ainda houver alguns bugs :)</p>
